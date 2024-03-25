@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FluencyMentor/static/css/main.b5b222c7.css",
+    "main.js": "/FluencyMentor/static/js/main.f1886331.js",
+    "static/js/453.49c873dd.chunk.js": "/FluencyMentor/static/js/453.49c873dd.chunk.js",
+    "index.html": "/FluencyMentor/index.html",
+    "main.b5b222c7.css.map": "/FluencyMentor/static/css/main.b5b222c7.css.map",
+    "main.f1886331.js.map": "/FluencyMentor/static/js/main.f1886331.js.map",
+    "453.49c873dd.chunk.js.map": "/FluencyMentor/static/js/453.49c873dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b222c7.css",
+    "static/js/main.f1886331.js"
+  ]
+}
