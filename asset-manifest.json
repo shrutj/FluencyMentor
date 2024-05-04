@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FluencyMentor/static/css/main.0f580cae.css",
+    "main.js": "/FluencyMentor/static/js/main.c06cbfd7.js",
+    "index.html": "/FluencyMentor/index.html",
+    "main.0f580cae.css.map": "/FluencyMentor/static/css/main.0f580cae.css.map",
+    "main.c06cbfd7.js.map": "/FluencyMentor/static/js/main.c06cbfd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f580cae.css",
+    "static/js/main.c06cbfd7.js"
+  ]
+}
