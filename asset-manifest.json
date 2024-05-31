@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FluencyMentor/static/css/main.0f580cae.css",
-    "main.js": "/FluencyMentor/static/js/main.5b69cd5c.js",
+    "main.css": "/FluencyMentor/static/css/main.0669f432.css",
+    "main.js": "/FluencyMentor/static/js/main.a13bb4c8.js",
     "index.html": "/FluencyMentor/index.html",
-    "main.0f580cae.css.map": "/FluencyMentor/static/css/main.0f580cae.css.map",
-    "main.5b69cd5c.js.map": "/FluencyMentor/static/js/main.5b69cd5c.js.map"
+    "main.0669f432.css.map": "/FluencyMentor/static/css/main.0669f432.css.map",
+    "main.a13bb4c8.js.map": "/FluencyMentor/static/js/main.a13bb4c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f580cae.css",
-    "static/js/main.5b69cd5c.js"
+    "static/css/main.0669f432.css",
+    "static/js/main.a13bb4c8.js"
   ]
 }
